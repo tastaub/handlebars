@@ -8,8 +8,11 @@
       <div class="col-sm-6 left-block">
         <h3>Order Up</h3>
         <form action="/burgers" method="POST">      
+          <div class="input-wrap">
           <input type="text" id="name" name="burger_name" placeholder="Add a burger">
           <button type="submit" class="btn btn-success burger-btn"><i class="fas fa-plus-circle"></i></button>
+          </div>
+          
         </form>
         {{#each burgers}}
           {{#unless devoured}}

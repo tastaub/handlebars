@@ -17,3 +17,4 @@ $(document).on('click', '#clear-btn', function(event) {
 
       location.reload();
   })
+

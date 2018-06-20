@@ -10,6 +10,10 @@ body  {
     background-image: url("../img/burger.jpg")
 }
 
+.hidden  {
+    display: none;
+}
+
 h3,
 h1  {
     text-align: center;
@@ -33,7 +37,17 @@ h1  {
     background-color: rgb(208, 50, 50);
     border: 2px solid rgb(103, 2, 2);
 }
+
+.burger-btn,
 .clear-btn  {
     background-color: rgb(42, 196, 42);
     border: rgb(6, 88, 6) 2px solid;
+}
+
+#name  {
+    border: rgb(6, 88, 6) 2px solid;
+    color: rgb(28, 28, 28);
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
