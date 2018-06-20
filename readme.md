@@ -1,0 +1,1 @@
+![grab-landing-page]("https://github.com/tastaub/handlebars/blob/master/demo.gif")
