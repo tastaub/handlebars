@@ -1,0 +1,39 @@
+html,
+body  {
+    height: 100%;
+}
+
+body  {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("../img/burger.jpg")
+}
+
+h3,
+h1  {
+    text-align: center;
+    color: #eee;
+}
+
+.left-block,
+#right-block {
+   text-align: center;
+}
+
+.eat-btn,
+.del-btn  {
+    margin-top: 5px;
+}
+
+.eat-btn  {
+    background-color: rgb(36, 36, 162);
+}
+.del-btn  {
+    background-color: rgb(208, 50, 50);
+    border: 2px solid rgb(103, 2, 2);
+}
+.clear-btn  {
+    background-color: rgb(42, 196, 42);
+    border: rgb(6, 88, 6) 2px solid;
+}
