@@ -18,6 +18,7 @@ h3,
 h1  {
     text-align: center;
     color: #eee;
+    font-family: 'Monoton', cursive;
 }
 
 .left-block,
@@ -50,4 +51,11 @@ h1  {
     font-weight: bold;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+.eat-btn,
+.del-btn,
+.burger-btn,
+.clear-btn,
+#name  {
+    font-family: 'Source Sans Pro', sans-serif;
 }
