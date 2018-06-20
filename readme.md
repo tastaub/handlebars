@@ -9,5 +9,5 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 ### Custom ORM
 ![ORM](/orm.png)
 ### Demo It
-[Heroku Link]("https://vast-coast-48173.herokuapp.com/")
+[Heroku Link](https://vast-coast-48173.herokuapp.com/)
 ![Demo Eat-Da-Burger](/demo.gif)
